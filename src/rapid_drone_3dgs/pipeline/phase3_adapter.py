@@ -1,0 +1,1 @@
+The full improved Phase 3 adapter code as written in sandbox.
